@@ -1,0 +1,9 @@
+{
+	"ip":"playzshine.aternos.me",
+	"port": 39475,
+	"name": "Shine",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Shinebot Shinebot",
+	"login-cmd":"/login Shinebot"
+}
